@@ -1,0 +1,37 @@
+.monthly {
+	width: 1040px;
+	height: 300px;
+}
+
+.period {
+	width: 360px;
+	height: 311px;
+}
+
+.numberOfWords {
+	width: 350px;
+	height: 290px;
+}
+
+.emotion {
+	width: 350px;
+	height: 290px;
+}
+
+.chartbelow {
+	width: 365px !important;
+}
+
+.below-header {
+	width: 350px !important;
+}
+
+.terms {
+	width: 325px;
+	height: 296px;
+}
+
+.violence {
+	width: 355px;
+	height: 296px;
+}
