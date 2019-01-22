@@ -3,7 +3,7 @@
 
 # VisualData
 
-@(JavaScript)[BootStrap|E-Charts]
+`JavaScript` `BootStrap` `E-Charts`
 
 ### Introduction
 This program is based on our **Term Project** last semester (in 11/2018), the topic of which given by the professor is "Social network analysis and data visualization".
